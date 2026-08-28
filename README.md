@@ -4,7 +4,7 @@
 
 Where should the business focus its retention efforts to reduce customer churn while protecting recurring revenue?
 
-This analysis examines 17K customers to identify the strongest churn associations and quantify the revenue at risk.  
+This analysis examines 17K customers to identify the strongest churn associations and quantify Monthly Recurring Revenue (MRR) at risk.    
 The findings point to two clear retention priorities: **Month-to-Month customers and customers without AutoPay**.
 
 ## What the Business Needs to Know
