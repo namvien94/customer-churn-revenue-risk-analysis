@@ -19,9 +19,7 @@ Customers without AutoPay also churn substantially more often than customers enr
 
 ![Customer Churn & Retention Overview](images/churn-overview.png)
 
-### Explore the Dashboard
-
-[View Interactive Dashboard](https://1drv.ms/u/c/fffe1bf0e25e649b/IQDzzUUhJnyASoDbfN97KSmnARCq2NSslKAtp9lfFa0idz8?e=chkAhE)
+[Explore the Dashboard](https://1drv.ms/u/c/fffe1bf0e25e649b/IQDzzUUhJnyASoDbfN97KSmnARCq2NSslKAtp9lfFa0idz8?e=chkAhE)
 
 ## Recommended Actions
 
