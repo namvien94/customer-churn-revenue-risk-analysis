@@ -21,7 +21,7 @@ Customers without AutoPay also churn substantially more often than customers enr
 
 ### Explore the Dashboard
 
-[View Interactive Excel Dashboard](https://1drv.ms/u/c/fffe1bf0e25e649b/IQDzzUUhJnyASoDbfN97KSmnARCq2NSslKAtp9lfFa0idz8?e=chkAhE)
+[View Interactive Dashboard](https://1drv.ms/u/c/fffe1bf0e25e649b/IQDzzUUhJnyASoDbfN97KSmnARCq2NSslKAtp9lfFa0idz8?e=chkAhE)
 
 ## Recommended Actions
 
