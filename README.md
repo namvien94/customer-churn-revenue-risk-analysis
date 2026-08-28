@@ -4,7 +4,7 @@
 
 Where should the business focus its retention efforts to reduce customer churn while protecting recurring revenue?
 
-This analysis examines 17K customers to identify the strongest churn associations and quantify the revenue at risk. 
+This analysis examines 17K customers to identify the strongest churn associations and quantify the revenue at risk.  
 The findings point to two clear retention priorities: Month-to-Month customers and customers without AutoPay.
 
 ## What the Business Needs to Know
@@ -13,9 +13,9 @@ The findings point to two clear retention priorities: Month-to-Month customers a
 |---|---:|---:|---:|
 | **15.4%** | **$148K** | **20.6% Month-to-Month** | **20.0% No AutoPay vs. 12.2% AutoPay** |
 
-The largest retention opportunity is concentrated rather than broad. 
-Month-to-Month customers have the highest churn rate and account for approximately **$409K, or 53%, of current MRR**. 
-Customers without AutoPay also churn substantially more often than customers enrolled in AutoPay.
+The largest retention opportunity is concentrated rather than broad.   
+Month-to-Month customers have the highest churn rate and account for approximately **$409K, or 53%, of current MRR**.   
+Customers without AutoPay also churn substantially more often than customers enrolled in AutoPay.  
 
 ![Customer Churn & Retention Overview](images/churn-overview.png)
 
@@ -25,7 +25,7 @@ Customers without AutoPay also churn substantially more often than customers enr
 
 Month-to-Month customers have the highest churn rate at **20.6%** and represent approximately **$409K, or 53%, of current MRR**. This combination makes them the highest-priority segment for retention efforts.
 
-**Recommended action:** Test targeted retention offers for Month-to-Month customers, such as incentives to move to Annual or Two-Year contracts. 
+**Recommended action:** Test targeted retention offers for Month-to-Month customers, such as incentives to move to Annual or Two-Year contracts.   
 Measure conversion, subsequent churn, and retained MRR to determine whether the intervention creates financial value.
 
 ### 2. Test AutoPay enrollment as a retention lever
