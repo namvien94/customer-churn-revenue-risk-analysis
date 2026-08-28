@@ -20,6 +20,7 @@ Month-to-Month customers have the highest churn rate and account for approximate
 
 Customers without AutoPay also churn substantially more often than customers enrolled in AutoPay.    
 
+
 ![Customer Churn & Retention Overview](images/churn-overview.png)   
 
 
