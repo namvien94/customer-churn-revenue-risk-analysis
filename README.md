@@ -5,7 +5,7 @@
 Where should the business focus its retention efforts to reduce customer churn while protecting recurring revenue?
 
 This analysis examines 17K customers to identify the strongest churn associations and quantify the revenue at risk.  
-The findings point to two clear retention priorities: Month-to-Month customers and customers without AutoPay.
+The findings point to two clear retention priorities: **Month-to-Month customers and customers without AutoPay**.
 
 ## What the Business Needs to Know
 
@@ -23,7 +23,8 @@ Customers without AutoPay also churn substantially more often than customers enr
 
 ### 1. Prioritize Month-to-Month retention
 
-Month-to-Month customers have the highest churn rate at **20.6%** and represent approximately **$409K, or 53%, of current MRR**. This combination makes them the highest-priority segment for retention efforts.
+Month-to-Month customers have the highest churn rate at **20.6%** and represent approximately **$409K, or 53%, of current MRR**.  
+This combination makes them the highest-priority segment for retention efforts.
 
 **Recommended action:** Test targeted retention offers for Month-to-Month customers, such as incentives to move to Annual or Two-Year contracts.   
 Measure conversion, subsequent churn, and retained MRR to determine whether the intervention creates financial value.
