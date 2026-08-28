@@ -15,10 +15,13 @@ The findings point to two clear retention priorities: **Month-to-Month customers
 | **15.4%** | **$148K** | **20.6% Month-to-Month** | **20.0% No AutoPay vs. 12.2% AutoPay** |
 
 The largest retention opportunity is concentrated rather than broad.   
+
 Month-to-Month customers have the highest churn rate and account for approximately **$409K, or 53%, of current MRR**.   
+
 Customers without AutoPay also churn substantially more often than customers enrolled in AutoPay.  
 
 ![Customer Churn & Retention Overview](images/churn-overview.png)
+
 
 [Explore the Dashboard](https://1drv.ms/u/c/fffe1bf0e25e649b/IQDzzUUhJnyASoDbfN97KSmnARCq2NSslKAtp9lfFa0idz8?e=chkAhE)
 
