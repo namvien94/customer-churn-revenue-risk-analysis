@@ -31,7 +31,8 @@ Customers without AutoPay also churn substantially more often than customers enr
 Month-to-Month customers have the highest churn rate at **20.6%** and represent approximately **$409K, or 53%, of current MRR**.  
 This combination makes them the highest-priority segment for retention efforts.
 
-Test targeted retention offers for Month-to-Month customers, such as incentives to move to Annual or Two-Year contracts. Measure conversion, subsequent churn, and retained MRR to determine whether the intervention creates financial value.
+Test targeted retention offers for Month-to-Month customers, such as incentives to move to Annual or Two-Year contracts.  
+Measure conversion, subsequent churn, and retained MRR to determine whether the intervention creates financial value.
 
 ### 2. Test AutoPay enrollment as a retention lever
 
